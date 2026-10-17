@@ -1,0 +1,1 @@
+$execute if entity @n[type=marker,tag=betterfarmingwithhoes-mature,distance=..0.5] run setblock ~ ~ ~ $(Crop)
